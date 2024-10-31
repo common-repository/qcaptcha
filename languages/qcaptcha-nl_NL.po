@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QCaptcha\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-25 12:28+0000\n"
+"PO-Revision-Date: 2019-10-25 12:31+0000\n"
+"Last-Translator: Timo <timo-koessler@t-online.de>\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5-alpha"
+
+#: admin-page.php:78
+msgid "Änderungen erfolgreich gespeichert"
+msgstr "Wijzigingen succesvol opgeslagen"
+
+#: admin-page.php:80
+msgid "Es ist ein Fehler beim Speichern der Einstellungen aufgetreten"
+msgstr "Er is een fout opgetreden bij het opslaan van de instellingen"
+
+#: admin-page.php:85 qcaptcha.php:78
+msgid "Einstellungen"
+msgstr "Instellingen"
+
+#: admin-page.php:88
+msgid "Allgemein"
+msgstr "Algemene"
+
+#: admin-page.php:92
+msgid "QCaptcha beim WP-Login aktivieren"
+msgstr "Activeer QCaptcha bij WP login"
+
+#: admin-page.php:97
+msgid "Bei der Registrierung ein Captcha anzeigen"
+msgstr "Een CAPTCHA tonen bij het registreren"
+
+#: admin-page.php:102
+msgid "QCaptcha beim Zurücksetzen des Passwortes einblenden"
+msgstr "QCaptcha weergeven bij het resetten van het wachtwoord"
+
+#: admin-page.php:107
+msgid "Aktiviere QCaptcha für WP-Kommentare"
+msgstr "Activeer QCaptcha voor WP comments"
+
+#: admin-page.php:110
+msgid "Unterstützte Plugins"
+msgstr "Ondersteunde plugins"
+
+#: admin-page.php:115 admin-page.php:121
+msgid ""
+"Unterstützung für <a href=\"https://de.wordpress.org/plugins/contact-form-"
+"7/\" rel=\"noopener\" target=\"_blank\" title=\"Contact Form 7 "
+"installieren\">Contact Form 7</a> aktivieren"
+msgstr ""
+"Ondersteuning voor <a href=\"https://de.wordpress.org/plugins/contact-form-"
+"7/\" rel=\"noopener\" target=\"_blank\" title=\"Contact Form 7 installeren\">"
+"Contact Form 7</a> inschakelen"
+
+#: admin-page.php:117 admin-page.php:123
+msgid ""
+"Verwende den Shortcode <code>[qcaptcha_cf7]</code>, um QCaptcha zu einem "
+"Contact Form 7-Formular hinzuzufügen"
+msgstr ""
+"Gebruik de shortcode <code>[qcaptcha_cf7]</code> om QCaptcha toe te voegen "
+"aan een contact formulier 7 formulier"
+
+#: admin-page.php:128
+msgid ""
+"Unterstützung für <a href=\"https://de.wordpress.org/plugins/wpforms-lite/\" "
+"rel=\"noopener\" target=\"_blank\" title=\"WP Forms Lite installieren\">WP "
+"Forms Lite</a> aktivieren"
+msgstr ""
+"Ondersteuning voor <a href=\"https://de.wordpress.org/plugins/wpforms-"
+"lite/\" rel=\"noopener\" target=\"_blank\" title=\"WP Forms Lite "
+"installeren\">WP Forms (Lite)</a> inschakelen"
+
+#: admin-page.php:130
+msgid "Du findest QCaptcha als Feld im WPForm-Builder"
+msgstr "U vindt QCaptcha als een veld in WPForm-Builder"
+
+#: admin-page.php:135 admin-page.php:141
+msgid ""
+"Unterstützung für <a href=\"https://de.wordpress.org/plugins/formidable/\" "
+"rel=\"noopener\" target=\"_blank\" title=\"Formidable Forms installieren\">"
+"Formidable Forms</a> aktivieren"
+msgstr ""
+"Ondersteuning voor <a href=\"https://de.wordpress.org/plugins/formidable/\" "
+"rel=\"noopener\" target=\"_blank\" title=\"Formidable Forms installeren\">"
+"Formidable Forms</a> inschakelen"
+
+#: admin-page.php:137 admin-page.php:143
+msgid "Du findest QCaptcha als Feld im Form-Builder"
+msgstr "U vindt QCaptcha als een veld in Form-Builder"
+
+#: admin-page.php:150 admin-page.php:156
+msgid ""
+"Unterstützung für <a href=\"https://wordpress.org/plugins/mailchimp-for-"
+"wp/\" rel=\"noopener\" target=\"_blank\" title=\"Mailchimp for WordPress "
+"installieren\">Mailchimp for WordPress</a> aktivieren"
+msgstr ""
+"Ondersteuning voor <a href=\"https://wordpress.org/plugins/mailchimp-for-"
+"wp/\" rel=\"noopener\" target=\"_blank\" title=\"Mailchimp for "
+"WordPressinstalleren\">Mailchimp for WordPress</a> inschakelen"
+
+#: admin-page.php:152 admin-page.php:158
+msgid ""
+"Verwende den Shortcode <code>[qcaptcha_mc]</code> innerhalb des "
+"Formulareditors, um QCaptcha zu einem Mailchimp-Formular hinzuzufügen"
+msgstr ""
+"Gebruik de shortcode <code>[qcaptcha_mc]</code> binnen de formuliereneditor "
+"om QCaptcha toe te voegen aan een MailChimp-formulier"
+
+#: admin-page.php:162
+msgid ""
+"Unterstützt Login und Registrierung von <a href=\"https://wordpress."
+"org/plugins/buddypress/\" rel=\"noopener\" target=\"_blank\" "
+"title=\"buddyPress installieren\">buddyPress</a> und  <a href=\"https:"
+"//wordpress.org/plugins/bbpress/\" target=\"_blank\" title=\"bbpress "
+"installieren\">bbPress</a>"
+msgstr ""
+"Ondersteunt login en registratie van <a href=\"https://wordpress."
+"org/plugins/buddypress/\" rel=\"noopener\" target=\"_blank\" "
+"title=\"buddyPress installeren\">buddyPress</a> en <a href=\"https:"
+"//wordpress.org/plugins/bbpress/\" target=\"_blank\" title=\"bbpress "
+"installeren\">bbPress</a>"
+
+#: admin-page.php:164
+msgid "Erweiterte Optionen"
+msgstr "Geavanceerde opties"
+
+#: admin-page.php:167
+msgid "QCaptcha für Admins deaktivieren"
+msgstr "QCaptcha uitschakelen voor beheerders"
+
+#: admin-page.php:172
+msgid "QCaptcha für eingeloggte Benutzer deaktivieren"
+msgstr "QCaptcha uitschakelen voor ingelogde gebruikers"
+
+#: admin-page.php:176
+msgid "Speichern"
+msgstr "opslaan"
+
+#: integrations/contact-form-7.php:78 integrations/buddypress.php:29
+#: integrations/wp-lostpassword.php:29 integrations/mailchimp.php:45
+#: integrations/wpforms.php:42 integrations/wp-login.php:29
+#: integrations/wp-register.php:29 integrations/wp-comments.php:29
+msgid "Das Captcha ist ungültig."
+msgstr "De CAPTCHA is ongeldig."
+
+#: integrations/formidable-forms.php:36
+msgid "<span style=\"color:#c0392b;\">Das Captcha ist ungültig.</span>"
+msgstr "<span style=\"color:#c0392b;\">De captcha is ongeldig.</span>"
+
+#. Name of the plugin
+#: integrations/formidable-forms.php:43 integrations/wpforms.php:59
+msgid "QCaptcha"
+msgstr "QCaptcha"
+
+#: integrations/formidable-forms.php:60 integrations/wpforms.php:71
+msgid ""
+"Keine Vorschau verfügbar: Hier wird das Captcha später angezeigt werden."
+msgstr "Geen voorvertoning beschikbaar: de captcha wordt later weergegeven."
+
+#: integrations/wpforms.php:65
+msgid "Es sind keine Optionen verfügbar."
+msgstr "Er zijn geen opties beschikbaar."
+
+#. Description of the plugin
+msgid ""
+"QCaptcha ist eine Anti-Spam Lösung für Webmaster, die sehgeschädigte "
+"Menschen nicht ausgrenzt und auf Datenschutz achtet"
+msgstr ""
+"QCaptcha is een antispam oplossing voor webmasters die mensen met een "
+"visuele handicap niet uitsluit en privacy respecteert"
+
+#. URI of the plugin
+msgid "https://timokoessler.de/qcaptcha/"
+msgstr "https://timokoessler.de/qcaptcha/"
+
+#. Author of the plugin
+msgid "Timo Kössler"
+msgstr "Timo Kössler"
+
+#. Author URI of the plugin
+msgid "https://timokoessler.de/"
+msgstr "https://timokoessler.de/"

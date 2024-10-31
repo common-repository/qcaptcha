@@ -1,0 +1,96 @@
+/**
+ * QCaptcha is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 2 of the License, or
+ * any later version.
+ *
+ * QCaptcha is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with QCaptcha. If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @package    QCaptcha
+ * @author     Timo Kössler (https://timokoessler.de)
+ * @since      1.0.0
+ * @license    GPL-2.0+
+ * @copyright  Copyright (c) 2019, Timo Kössler
+ */
+
+#wpcontent {
+    padding-left: 0 !important;
+}
+
+.qcaptcha-top {
+    background-color: #ffffff;
+    border-bottom: 3px solid #2471a3;
+    width: 100%;
+}
+.qcaptcha-top img {
+    margin: 15px;
+    max-width: 350px;
+}
+.qcaptcha-settings {
+    margin: 25px;
+}
+.qcaptcha-title {
+    color: #444;
+    font-size: 24px;
+    font-weight: 600;
+}
+.qcaptcha-notice {
+    margin: 15px 25px 15px 25px;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+.green-checkmark {
+    color: #1dbf3f;
+    font-weight: 900;
+}
+
+.qcaptcha-plugins-title {
+    color: #444;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.font-16 {
+    font-size: 16px;
+}
+
+.txt-q {
+    color: #2471a3;
+    font-weight: bold;
+}
+
+@media (max-width: 1914px) {
+    .qcaptcha-range-box {
+        width: 40%;
+    }
+}
+@media (max-width: 1223px) {
+    .qcaptcha-range-box {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1055px) {
+    .qcaptcha-range-box {
+        width: 75%;
+    }
+}
+
+@media (max-width: 649px) {
+    .qcaptcha-range-box {
+        width: 100%;
+    }
+    .qcaptcha_protection_container {
+        font-size: 12px;
+    }
+}
